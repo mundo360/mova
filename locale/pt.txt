@@ -3,16 +3,16 @@
 ## Action
 
 ### URL
+LinkBehaviour_CDC0ADC3_E2EF_0954_41E1_FE6E918C909A.source = https://api.whatsapp.com/send?phone=5561999668070
 LinkBehaviour_CFBA883E_E219_772C_41E1_06E21763BFEA.source = https://api.whatsapp.com/send?phone=5561999668070
 LinkBehaviour_B9AAF987_A9EF_2AE5_41DC_8279D3B1EB6F.source = https://api.whatsapp.com/send?phone=5561999668070
-LinkBehaviour_CDC0ADC3_E2EF_0954_41E1_FE6E918C909A.source = https://api.whatsapp.com/send?phone=5561999668070
 LinkBehaviour_B589F268_A990_649D_41C4_28952F07945E.source = https://search.google.com/local/writereview?placeid=ChIJBcWCxVY7WpMRRsvC4w3oGNk
 LinkBehaviour_B336C29B_A9B0_25B3_41DE_9719C34632A5.source = https://search.google.com/local/writereview?placeid=ChIJBcWCxVY7WpMRRsvC4w3oGNk
 WebFrame_B2DFAE78_AA69_DAF3_41D2_B34B973B5AAE.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3839.870598528304!2d-47.89822628929184!3d-15.757983284814166!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a3b56c582c505%3A0xd918e80de3c2cb46!2sMovimento%20Animal%20%7C%20Cl%C3%ADnica%20Veterin%C3%A1ria%2024%20Horas!5e0!3m2!1spt-BR!2sbr!4v1756148171705!5m2!1spt-BR!2sbr
 WebFrame_A2194524_85D5_388E_41C5_1DA461D7365E.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3839.870598528304!2d-47.89822628929184!3d-15.757983284814166!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a3b56c582c505%3A0xd918e80de3c2cb46!2sMovimento%20Animal%20%7C%20Cl%C3%ADnica%20Veterin%C3%A1ria%2024%20Horas!5e0!3m2!1spt-BR!2sbr!4v1756148386265!5m2!1spt-BR!2sbr
+LinkBehaviour_D648256C_E2E9_392C_41BF_BA33F2FA4507.source = https://www.instagram.com/movimentoanimal/
 LinkBehaviour_B69884B5_A9F0_6DF7_4198_00A74EC14CF0.source = https://www.instagram.com/movimentoanimal/
 LinkBehaviour_D3CFD99E_E2F9_09ED_41CF_1230E4A81AF1.source = https://www.instagram.com/movimentoanimal/
-LinkBehaviour_D648256C_E2E9_392C_41BF_BA33F2FA4507.source = https://www.instagram.com/movimentoanimal/
 LinkBehaviour_F2F5A91E_E298_2BDC_41DD_E536AA92776F.source = https://www.movimentoanimal.com.br/
 
 ## Hotspot
@@ -151,91 +151,91 @@ panorama_F9FF5E07_E267_0ADB_41D6_316EB373FEBB.label = entrada-principal
 video_F88C5580_EE83_994F_41E6_09FC9E0A7E51.label = movimento-vódeocurto
 
 ### Video
-videolevel_F73CF0B8_EE82_F8BF_41E4_81CB1545ACF5.posterURL = media/video_F88C5580_EE83_994F_41E6_09FC9E0A7E51_poster_pt.jpg
-videolevel_F73CF0B8_EE82_F8BF_41E4_81CB1545ACF5.url = media/video_F88C5580_EE83_994F_41E6_09FC9E0A7E51_pt.mp4
+videolevel_F671F579_EED8_BFD8_4180_7512D33FA404.posterURL = media/video_F88C5580_EE83_994F_41E6_09FC9E0A7E51_poster_pt.jpg
+videolevel_F671F579_EED8_BFD8_4180_7512D33FA404.url = media/video_F88C5580_EE83_994F_41E6_09FC9E0A7E51_pt.mp4
 
 ### Video Subtitles
 
 ## Skin
 
 ### Button
+Button_D3C8599E_E2F9_09ED_41C0_EEE73727C35A.label = ( X ) FECHAR JANELA
 Button_CDC62DC4_E2EF_095C_41DB_83FFB94833E0.label = ( X ) FECHAR JANELA
 Button_D64BC56C_E2E9_392C_41E6_F28D28ED6B97.label = ( X ) FECHAR JANELA
 Button_B336829B_A9B0_25B3_41DD_7AA78EDB05B6.label = ( X ) FECHAR JANELA
-Button_D3C8599E_E2F9_09ED_41C0_EEE73727C35A.label = ( X ) FECHAR JANELA
 Button_B589A268_A990_649D_41E0_044E468E3091.label = (X) FECHAR JANELA
 Button_B69954B5_A9F0_6DF7_41C2_72BAE59BF06F.label = (X) FECHAR JANELA
 Button_F2F57920_E298_2BE3_41CF_2F689A7BFABC.label = (X) FECHAR JANELA
 Button_CFB5783E_E219_772C_41E2_C96B5D2F38F0.label = (X) FECHAR JANELA
 Button_F3F2F784_EA8A_2BEC_41D1_6FDDB5B66C01.label = (X) Fechar janela
 Button_CDC6EDC2_E2EF_0954_41B7_5BEB1C6239D6.label = ** ATENDIMENTO VIA WHATSAPP **
-Button_B337429A_A9B0_25BD_41B4_A301748AF393.label = ** FAZER AVALIAÇÃO **
 Button_B58E7268_A990_649D_41E4_7CB0527C1F88.label = ** FAZER AVALIAÇÃO **
+Button_B337429A_A9B0_25BD_41B4_A301748AF393.label = ** FAZER AVALIAÇÃO **
 Button_D3C9599D_E2F9_09EF_41E9_DA2271A5182D.label = ABRIR PERFIL DO INSTAGRAM
 Button_D646656B_E2E9_3954_41E8_EE47989F2FB3.label = ABRIR SITE PRINCIPAL
 Button_B69904B5_A9F0_6DF7_41A8_23C6C63C45EE.label = ACESSAR PERFIL INSTAGRAM
 Button_F2F6091B_E298_2BA4_41BF_76806658C317.label = ACESSAR SITE PRINCIPAL
 Button_F5B2760B_E21B_7AD4_41E0_7385C3D4E1F7.pressedLabel = AMBULATÓRIO
-Button_5AB88F7B_40D3_00DE_41BD_3AF4ED80C40D_mobile.label = AMBULATÓRIO
-Button_F5B2760B_E21B_7AD4_41E0_7385C3D4E1F7.label = AMBULATÓRIO
 Button_5AB88F7B_40D3_00DE_41BD_3AF4ED80C40D_mobile.pressedLabel = AMBULATÓRIO
+Button_F5B2760B_E21B_7AD4_41E0_7385C3D4E1F7.label = AMBULATÓRIO
+Button_5AB88F7B_40D3_00DE_41BD_3AF4ED80C40D_mobile.label = AMBULATÓRIO
 Button_CFB8C83D_E219_772C_41E6_2D5FD3157E4D.label = ATENDIMENTO  VIA WHATSAPP
 Button_5AB8AF7B_40D3_00DE_41CD_E4BAA6CA3ED1_mobile.label = CENTRO CIRÚRGICO
-Button_5AB8AF7B_40D3_00DE_41CD_E4BAA6CA3ED1_mobile.pressedLabel = CENTRO CIRÚRGICO
-Button_F1EBCBCC_E229_096D_41E2_56DB7F95E60D.label = CENTRO CIRÚRGICO
 Button_F1EBCBCC_E229_096D_41E2_56DB7F95E60D.pressedLabel = CENTRO CIRÚRGICO
+Button_F1EBCBCC_E229_096D_41E2_56DB7F95E60D.label = CENTRO CIRÚRGICO
+Button_5AB8AF7B_40D3_00DE_41CD_E4BAA6CA3ED1_mobile.pressedLabel = CENTRO CIRÚRGICO
 Button_F4D39E41_E219_0B54_41C4_1241555A7D4F.label = CENTRO CIRÚRGICO ODONTO
 Button_F4D39E41_E219_0B54_41C4_1241555A7D4F.pressedLabel = CENTRO CIRÚRGICO ODONTO
-Button_FA532EC6_E26B_0B5D_41E9_DECE64B31BB6_mobile.label = CENTRO CIRÚRGICO ODONTO
 Button_FA532EC6_E26B_0B5D_41E9_DECE64B31BB6_mobile.pressedLabel = CENTRO CIRÚRGICO ODONTO
+Button_FA532EC6_E26B_0B5D_41E9_DECE64B31BB6_mobile.label = CENTRO CIRÚRGICO ODONTO
 Button_F1EB1BCC_E229_096D_41AD_1F2057BA341C.pressedLabel = CONSULTÓRIO CÂES
+Button_F1EB1BCC_E229_096D_41AD_1F2057BA341C.label = CONSULTÓRIO CÃES
 Button_5AB87F7A_40D3_00DE_41AA_215C597649E9_mobile.pressedLabel = CONSULTÓRIO CÃES
 Button_5AB87F7A_40D3_00DE_41AA_215C597649E9_mobile.label = CONSULTÓRIO CÃES
-Button_F1EB1BCC_E229_096D_41AD_1F2057BA341C.label = CONSULTÓRIO CÃES
 Button_FAB79706_E269_1ADC_41D6_3864536A868A_mobile.pressedLabel = CONSULTÓRIO ESPECIALISTA
 Button_F1EB0BCC_E229_096D_41EB_372C0167A3BA.pressedLabel = CONSULTÓRIO ESPECIALISTA
 Button_FAB79706_E269_1ADC_41D6_3864536A868A_mobile.label = CONSULTÓRIO ESPECIALISTA
 Button_F1EB0BCC_E229_096D_41EB_372C0167A3BA.label = CONSULTÓRIO ESPECLIALISTA
-Button_5AB84F7B_40D3_00DE_4195_429283488EB1_mobile.label = CONSULTÓRIO FELINOS
 Button_5AB84F7B_40D3_00DE_4195_429283488EB1_mobile.pressedLabel = CONSULTÓRIO FELINOS
-Button_FE09C43F_E826_18D9_41DD_52E2E74F6988.pressedLabel = CONSULTÓRIO FELINOS
+Button_5AB84F7B_40D3_00DE_4195_429283488EB1_mobile.label = CONSULTÓRIO FELINOS
 Button_FE09C43F_E826_18D9_41DD_52E2E74F6988.label = CONSULTÓRIO FELINOS
+Button_FE09C43F_E826_18D9_41DD_52E2E74F6988.pressedLabel = CONSULTÓRIO FELINOS
 Button_F1EC8BCC_E229_096D_41D6_215DD14A173D.label = ESPAÇOS>
 Button_0AEB5577_2D08_CE7B_41B6_192923248F4E_mobile.label = ESPAÇOS>
-Button_CDA42B87_E862_6FA9_4188_B6966DD25588_mobile.pressedLabel = ESTERELIZAÇÃO
-Button_FA36CEF6_E21F_0B3D_41A2_DED9B91DC5FF.pressedLabel = ESTERELIZAÇÃO
 Button_CDA42B87_E862_6FA9_4188_B6966DD25588_mobile.label = ESTERELIZAÇÃO
 Button_FA36CEF6_E21F_0B3D_41A2_DED9B91DC5FF.label = ESTERELIZAÇÃO
-Button_F1EB4BCC_E229_096D_41E1_EEC3C54882FB.label = FACHADA
-Button_B619FCE6_AA69_5E1E_41E3_EB940DFD813E_mobile.pressedLabel = FACHADA
+Button_CDA42B87_E862_6FA9_4188_B6966DD25588_mobile.pressedLabel = ESTERELIZAÇÃO
+Button_FA36CEF6_E21F_0B3D_41A2_DED9B91DC5FF.pressedLabel = ESTERELIZAÇÃO
 Button_F1EB4BCC_E229_096D_41E1_EEC3C54882FB.pressedLabel = FACHADA
 Button_B619FCE6_AA69_5E1E_41E3_EB940DFD813E_mobile.label = FACHADA
+Button_F1EB4BCC_E229_096D_41E1_EEC3C54882FB.label = FACHADA
+Button_B619FCE6_AA69_5E1E_41E3_EB940DFD813E_mobile.pressedLabel = FACHADA
 Button_B9A85983_A9EF_2ADD_41E1_1F659A2B9E0C.label = Falar via Whatsapp
-Button_F1EBFBCC_E229_096D_41EB_53E62C4AE200.label = INTERNAÇÃO CÃES
 Button_F1EBFBCC_E229_096D_41EB_53E62C4AE200.pressedLabel = INTERNAÇÃO CÃES
-Button_FB6815D4_E269_197C_41D0_FF0EFF3897AD_mobile.label = INTERNAÇÃO CÃES
+Button_F1EBFBCC_E229_096D_41EB_53E62C4AE200.label = INTERNAÇÃO CÃES
 Button_FB6815D4_E269_197C_41D0_FF0EFF3897AD_mobile.pressedLabel = INTERNAÇÃO CÃES
-Button_F1EBEBCC_E229_096D_41D5_3E7CC42E3409.label = INTERNAÇÃO FELINOS
-Button_F11D49DE_E22F_096D_4193_DF8A6186834E_mobile.pressedLabel = INTERNAÇÃO FELINOS
-Button_F11D49DE_E22F_096D_4193_DF8A6186834E_mobile.label = INTERNAÇÃO FELINOS
+Button_FB6815D4_E269_197C_41D0_FF0EFF3897AD_mobile.label = INTERNAÇÃO CÃES
 Button_F1EBEBCC_E229_096D_41D5_3E7CC42E3409.pressedLabel = INTERNAÇÃO FELINOS
-Button_5AB8BF7B_40D3_00DE_41C1_48C8A4A660AA_mobile.label = LABORATÓRIO
-Button_F1EBBBCD_E229_096F_41DA_8862C4CACCE1.label = LABORATÓRIO
+Button_F11D49DE_E22F_096D_4193_DF8A6186834E_mobile.label = INTERNAÇÃO FELINOS
+Button_F11D49DE_E22F_096D_4193_DF8A6186834E_mobile.pressedLabel = INTERNAÇÃO FELINOS
+Button_F1EBEBCC_E229_096D_41D5_3E7CC42E3409.label = INTERNAÇÃO FELINOS
 Button_5AB8BF7B_40D3_00DE_41C1_48C8A4A660AA_mobile.pressedLabel = LABORATÓRIO
 Button_F1EBBBCD_E229_096F_41DA_8862C4CACCE1.pressedLabel = LABORATÓRIO
+Button_5AB8BF7B_40D3_00DE_41C1_48C8A4A660AA_mobile.label = LABORATÓRIO
+Button_F1EBBBCD_E229_096F_41DA_8862C4CACCE1.label = LABORATÓRIO
 Button_A53187F4_AA29_49F2_41D1_AA5B9243088D.label = Movimento Animal - Tour Virtual 360º
-Button_A8C68C4E_852A_E89D_41D8_66C8F9DB3720_mobile.pressedLabel = REABILITAÇÃO/FISIO
-Button_F1EBDBCC_E229_096D_41D3_B0659D296AFB.label = REABILITAÇÃO/FISIO
 Button_A8C68C4E_852A_E89D_41D8_66C8F9DB3720_mobile.label = REABILITAÇÃO/FISIO
 Button_F1EBDBCC_E229_096D_41D3_B0659D296AFB.pressedLabel = REABILITAÇÃO/FISIO
-Button_5AB86F7A_40D3_00DE_41BD_D1B9EFCA70D1_mobile.pressedLabel = RECEPÇÃO
+Button_A8C68C4E_852A_E89D_41D8_66C8F9DB3720_mobile.pressedLabel = REABILITAÇÃO/FISIO
+Button_F1EBDBCC_E229_096D_41D3_B0659D296AFB.label = REABILITAÇÃO/FISIO
 Button_5AB86F7A_40D3_00DE_41BD_D1B9EFCA70D1_mobile.label = RECEPÇÃO
-Button_F1EB3BCC_E229_096D_41D4_F33D56015D8D.pressedLabel = RECEPÇÃO
+Button_5AB86F7A_40D3_00DE_41BD_D1B9EFCA70D1_mobile.pressedLabel = RECEPÇÃO
 Button_F1EB3BCC_E229_096D_41D4_F33D56015D8D.label = RECEPÇÃO
-Button_FA860C30_E21B_0F34_41E4_D1A2E50917C7.pressedLabel = SEMI-UTI
-Button_5AB85F7B_40D3_00DE_41A0_52785BEFA815_mobile.pressedLabel = SEMI-UTI
-Button_5AB85F7B_40D3_00DE_41A0_52785BEFA815_mobile.label = SEMI-UTI
+Button_F1EB3BCC_E229_096D_41D4_F33D56015D8D.pressedLabel = RECEPÇÃO
 Button_FA860C30_E21B_0F34_41E4_D1A2E50917C7.label = SEMI-UTI
+Button_5AB85F7B_40D3_00DE_41A0_52785BEFA815_mobile.label = SEMI-UTI
+Button_5AB85F7B_40D3_00DE_41A0_52785BEFA815_mobile.pressedLabel = SEMI-UTI
+Button_FA860C30_E21B_0F34_41E4_D1A2E50917C7.pressedLabel = SEMI-UTI
 
 ### Dropdown
 DropDown_978BDB92_855F_6F8A_4177_E1F6CF5D3B78.label = Lista de Ambientes
@@ -271,9 +271,9 @@ HTMLText_F2F0490E_E298_2BBF_41E5_F1D0DC27ACA4.html = <div style="text-align:left
 HTMLText_CFB8183C_E219_772C_41B7_4F951A770CB1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:4.93601462522852vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.94vh;font-family:'Montserrat';"><B>FALE CONOSSO PELO WHATSAPP</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.29vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.57vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.38vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.57vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.7422303473491785vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.74vh;">Agende sua consulta agora mesmo !!!</SPAN></SPAN></DIV></div>
 HTMLText_B58E6268_A990_649D_41CB_2AFB0894B7F1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:5.482266910420473vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:5.48vh;font-family:'Montserrat';"><B>SUA OPINIÃO É IMPORTANTE PARA NÓS</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.11vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.57vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.38vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.57vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.7422303473491785vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.74vh;">Faça uma rápida avaliação de nossa empresa no Google. Opine sobre nossos serviços e nosso atendimento !!!</SPAN></SPAN></DIV></div>
 HTMLText_D69B082E_DB7A_4E9C_41C9_EC56AA37F891_mobile.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:2.34vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.77vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.34375vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.34vh;font-family:'Oswald Regular';">Lista de Espaços</SPAN></SPAN></DIV></div>
-HTMLText_B337329A_A9B0_25BD_41E1_92D30F9005D7.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.5vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7.5vmin;font-family:'Montserrat';"><B>SUA OPINIÃO É IMPORTANTE PARA NÓS</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:5vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.166666666666667vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.17vmin;">Faça uma rápida avaliação de nossa empresa no Google. Opine sobre nossosserviços e nosso atendimento !!!</SPAN></SPAN></DIV></div>
-HTMLText_D646C564_E2E9_395D_41EA_37BA48F2BCE8.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.777777777777778vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7.78vmin;font-family:'Montserrat';"><B>Acesse nosso Site principal</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.72vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.722222222222222vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.72vmin;">Saiba mais sobre os serviços oferecidos pela Movimento Animal pelo site priincipal</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.72vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.722222222222222vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.72vmin;">Deseja SAIR DO TOUR e acessar o site ?</SPAN></SPAN></DIV></div>
-HTMLText_D3CA999C_E2F9_09ED_41D0_7BB4DF39012B.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.330000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:8.33vmin;font-family:'Montserrat';"><B>Acesse nossa página do Instagram </B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:5vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:4.72vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.722222222222222vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.72vmin;">Deseja sair do Tour Virtual e acessar o instagram ?</SPAN></SPAN></DIV></div>
+HTMLText_B337329A_A9B0_25BD_41E1_92D30F9005D7.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.500000000000001vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7.5vmin;font-family:'Montserrat';"><B>SUA OPINIÃO É IMPORTANTE PARA NÓS</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:5vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.166666666666667vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.17vmin;">Faça uma rápida avaliação de nossa empresa no Google. Opine sobre nossosserviços e nosso atendimento !!!</SPAN></SPAN></DIV></div>
+HTMLText_D646C564_E2E9_395D_41EA_37BA48F2BCE8.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7.777777777777779vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:7.78vmin;font-family:'Montserrat';"><B>Acesse nosso Site principal</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.72vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.722222222222223vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.72vmin;">Saiba mais sobre os serviços oferecidos pela Movimento Animal pelo site priincipal</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.72vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.722222222222223vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.72vmin;">Deseja SAIR DO TOUR e acessar o site ?</SPAN></SPAN></DIV></div>
+HTMLText_D3CA999C_E2F9_09ED_41D0_7BB4DF39012B.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.330000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:8.33vmin;font-family:'Montserrat';"><B>Acesse nossa página do Instagram </B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:5vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:4.72vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.722222222222223vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.72vmin;">Deseja sair do Tour Virtual e acessar o instagram ?</SPAN></SPAN></DIV></div>
 HTMLText_CDC53DC2_E2EF_0954_41E5_6C6CA38F2368.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:8.330000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:8.33vmin;font-family:'Montserrat';"><B>Fale conosco via whatsapp</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:5vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:3.61vmin;"><BR STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-size:0.87vmin;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:4.166666666666667vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.17vmin;">Entre em contato pelo nosso canal Whatsapp e marque sua consulta agora mesmo !</SPAN></SPAN></DIV></div>
 HTMLText_B2DF8E78_AA69_DAF3_41C2_DE2DF6159EA3.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.6562500000000036vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.66vh;font-family:'Bebas Neue Bold';"><B>Localização</B></SPAN></SPAN></DIV></div>
 HTMLText_BC69C057_AA37_463E_41E3_923A861B2695.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.6562500000000036vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.66vh;font-family:'Bebas Neue Bold';"><B>Serviços</B></SPAN></SPAN></DIV></div>
